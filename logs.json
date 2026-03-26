@@ -1,0 +1,905 @@
+[
+    {
+        "filename": "file",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "timestamp": "2026-03-18 23:34:55"
+    },
+    {
+        "filename": "file",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "timestamp": "2026-03-24 21:45:11"
+    },
+    {
+        "filename": "trial.py",
+        "alpha": 0.2,
+        "beta": 0.0,
+        "gamma": 0.8,
+        "best_region": {
+            "Region": "Zurich",
+            "Carbon": 33,
+            "Latency": 110,
+            "Renewable": 65,
+            "Score": -45.4
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 34,
+                "Latency": 120,
+                "Renewable": 26,
+                "Score": -14.0
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 33,
+                "Latency": 110,
+                "Renewable": 65,
+                "Score": -45.4
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 327,
+                "Latency": 100,
+                "Renewable": 77,
+                "Score": 3.8
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 706,
+                "Latency": 80,
+                "Renewable": 11,
+                "Score": 132.4
+            }
+        ],
+        "timestamp": "2026-03-24 23:04:32"
+    },
+    {
+        "filename": "trial.py",
+        "alpha": 0.2,
+        "beta": 0.0,
+        "gamma": 0.8,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 327,
+            "Latency": 100,
+            "Renewable": 77,
+            "Carbon_norm": 0.437,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.0874
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 34,
+                "Latency": 120,
+                "Renewable": 26,
+                "Carbon_norm": 0.001,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.227,
+                "Score": 0.6185
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 33,
+                "Latency": 110,
+                "Renewable": 65,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.818,
+                "Score": 0.1455
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 327,
+                "Latency": 100,
+                "Renewable": 77,
+                "Carbon_norm": 0.437,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.0874
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 706,
+                "Latency": 80,
+                "Renewable": 11,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.0,
+                "Score": 1.0
+            }
+        ],
+        "timestamp": "2026-03-24 23:14:24"
+    },
+    {
+        "filename": "hello.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 226,
+            "Latency": 100,
+            "Renewable": 91,
+            "Carbon_norm": 0.29,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.2949
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 33,
+                "Latency": 120,
+                "Renewable": 26,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.177,
+                "Score": 0.4646
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 34,
+                "Latency": 110,
+                "Renewable": 58,
+                "Carbon_norm": 0.002,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.582,
+                "Score": 0.3093
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 226,
+                "Latency": 100,
+                "Renewable": 91,
+                "Carbon_norm": 0.29,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.2949
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 699,
+                "Latency": 80,
+                "Renewable": 12,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.7
+            }
+        ],
+        "timestamp": "2026-03-25 22:31:56"
+    },
+    {
+        "filename": "main.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 252,
+            "Latency": 100,
+            "Renewable": 89,
+            "Carbon_norm": 0.356,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3282
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 25,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.069,
+                "Score": 0.4861
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 63,
+                "Latency": 110,
+                "Renewable": 44,
+                "Carbon_norm": 0.06,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.375,
+                "Score": 0.3798
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 252,
+                "Latency": 100,
+                "Renewable": 89,
+                "Carbon_norm": 0.356,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3282
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 662,
+                "Latency": 80,
+                "Renewable": 17,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.7
+            }
+        ],
+        "timestamp": "2026-03-26 07:51:45"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 253,
+            "Latency": 100,
+            "Renewable": 89,
+            "Carbon_norm": 0.393,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3466
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 25,
+                "Latency": 120,
+                "Renewable": 21,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 85,
+                "Latency": 110,
+                "Renewable": 47,
+                "Carbon_norm": 0.103,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.382,
+                "Score": 0.4003
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 253,
+                "Latency": 100,
+                "Renewable": 89,
+                "Carbon_norm": 0.393,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3466
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 605,
+                "Latency": 80,
+                "Renewable": 25,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.059,
+                "Score": 0.6882
+            }
+        ],
+        "timestamp": "2026-03-26 08:47:57"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 258,
+            "Latency": 100,
+            "Renewable": 89,
+            "Carbon_norm": 0.402,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3509
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 25,
+                "Latency": 120,
+                "Renewable": 21,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 100,
+                "Latency": 110,
+                "Renewable": 51,
+                "Carbon_norm": 0.129,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.441,
+                "Score": 0.4014
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 258,
+                "Latency": 100,
+                "Renewable": 89,
+                "Carbon_norm": 0.402,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3509
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 605,
+                "Latency": 80,
+                "Renewable": 25,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.059,
+                "Score": 0.6882
+            }
+        ],
+        "timestamp": "2026-03-26 09:02:27"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 258,
+            "Latency": 100,
+            "Renewable": 89,
+            "Carbon_norm": 0.402,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3509
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 25,
+                "Latency": 120,
+                "Renewable": 21,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 100,
+                "Latency": 110,
+                "Renewable": 51,
+                "Carbon_norm": 0.129,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.441,
+                "Score": 0.4014
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 258,
+                "Latency": 100,
+                "Renewable": 89,
+                "Carbon_norm": 0.402,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3509
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 605,
+                "Latency": 80,
+                "Renewable": 25,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.059,
+                "Score": 0.6882
+            }
+        ],
+        "timestamp": "2026-03-26 09:07:15"
+    },
+    {
+        "filename": "main.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 258,
+            "Latency": 100,
+            "Renewable": 89,
+            "Carbon_norm": 0.402,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3509
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 25,
+                "Latency": 120,
+                "Renewable": 21,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 100,
+                "Latency": 110,
+                "Renewable": 51,
+                "Carbon_norm": 0.129,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.441,
+                "Score": 0.4014
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 258,
+                "Latency": 100,
+                "Renewable": 89,
+                "Carbon_norm": 0.402,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3509
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 605,
+                "Latency": 80,
+                "Renewable": 25,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.059,
+                "Score": 0.6882
+            }
+        ],
+        "timestamp": "2026-03-26 09:10:52"
+    },
+    {
+        "filename": "main.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Zurich",
+            "Carbon": 75,
+            "Latency": 110,
+            "Renewable": 58,
+            "Carbon_norm": 0.091,
+            "Latency_norm": 0.75,
+            "Renewable_norm": 0.61,
+            "Score": 0.3482
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 75,
+                "Latency": 110,
+                "Renewable": 58,
+                "Carbon_norm": 0.091,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.61,
+                "Score": 0.3482
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:02:59"
+    },
+    {
+        "filename": "main.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Zurich",
+            "Carbon": 75,
+            "Latency": 110,
+            "Renewable": 58,
+            "Carbon_norm": 0.091,
+            "Latency_norm": 0.75,
+            "Renewable_norm": 0.61,
+            "Score": 0.3482
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 75,
+                "Latency": 110,
+                "Renewable": 58,
+                "Carbon_norm": 0.091,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.61,
+                "Score": 0.3482
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:07:44"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Zurich",
+            "Carbon": 75,
+            "Latency": 110,
+            "Renewable": 58,
+            "Carbon_norm": 0.091,
+            "Latency_norm": 0.75,
+            "Renewable_norm": 0.61,
+            "Score": 0.3482
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 75,
+                "Latency": 110,
+                "Renewable": 58,
+                "Carbon_norm": 0.091,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.61,
+                "Score": 0.3482
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:15:36"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Zurich",
+            "Carbon": 75,
+            "Latency": 110,
+            "Renewable": 58,
+            "Carbon_norm": 0.091,
+            "Latency_norm": 0.75,
+            "Renewable_norm": 0.61,
+            "Score": 0.3482
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Zurich",
+                "Carbon": 75,
+                "Latency": 110,
+                "Renewable": 58,
+                "Carbon_norm": 0.091,
+                "Latency_norm": 0.75,
+                "Renewable_norm": 0.61,
+                "Score": 0.3482
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:19:00"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 323,
+            "Latency": 100,
+            "Renewable": 81,
+            "Carbon_norm": 0.601,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.4504
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:25:59"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 323,
+            "Latency": 100,
+            "Renewable": 81,
+            "Carbon_norm": 0.601,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.4504
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 22,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 323,
+                "Latency": 100,
+                "Renewable": 81,
+                "Carbon_norm": 0.601,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4504
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 517,
+                "Latency": 80,
+                "Renewable": 36,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.237,
+                "Score": 0.6525
+            }
+        ],
+        "timestamp": "2026-03-26 12:26:44"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 290,
+            "Latency": 100,
+            "Renewable": 87,
+            "Carbon_norm": 0.539,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.4194
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 33,
+                "Latency": 120,
+                "Renewable": 23,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.5
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 290,
+                "Latency": 100,
+                "Renewable": 87,
+                "Carbon_norm": 0.539,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.4194
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 510,
+                "Latency": 80,
+                "Renewable": 37,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.219,
+                "Score": 0.6562
+            }
+        ],
+        "timestamp": "2026-03-26 12:33:44"
+    },
+    {
+        "filename": "test.py",
+        "alpha": 0.5,
+        "beta": 0.3,
+        "gamma": 0.2,
+        "best_region": {
+            "Region": "Frankfurt",
+            "Carbon": 315,
+            "Latency": 100,
+            "Renewable": 79,
+            "Carbon_norm": 0.426,
+            "Latency_norm": 0.5,
+            "Renewable_norm": 1.0,
+            "Score": 0.3632
+        },
+        "all_scores": [
+            {
+                "Region": "France",
+                "Carbon": 31,
+                "Latency": 120,
+                "Renewable": 27,
+                "Carbon_norm": 0.0,
+                "Latency_norm": 1.0,
+                "Renewable_norm": 0.224,
+                "Score": 0.4552
+            },
+            {
+                "Region": "Frankfurt",
+                "Carbon": 315,
+                "Latency": 100,
+                "Renewable": 79,
+                "Carbon_norm": 0.426,
+                "Latency_norm": 0.5,
+                "Renewable_norm": 1.0,
+                "Score": 0.3632
+            },
+            {
+                "Region": "Western India",
+                "Carbon": 697,
+                "Latency": 80,
+                "Renewable": 12,
+                "Carbon_norm": 1.0,
+                "Latency_norm": 0.0,
+                "Renewable_norm": 0.0,
+                "Score": 0.7
+            }
+        ],
+        "timestamp": "2026-03-26 21:41:21"
+    }
+]
