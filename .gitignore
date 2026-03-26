@@ -1,17 +1,16 @@
-.DS_Store
-.DS_Store
-
-# Python cache files
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
 
-# Virtual environment
+# Virtual env
 venv/
-.venv/
-env/
-ENV/
-
-# Optional: ignore environment files
 .env
+
+# Logs
+logs.json
+
+# Uploads
+uploads/
+
+# Mac
 .DS_Store
