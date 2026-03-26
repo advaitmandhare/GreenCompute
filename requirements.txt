@@ -1,5 +1,12 @@
-streamlit
 fastapi
 uvicorn
+streamlit
 requests
+boto3
+pandas
+numpy
 python-multipart
+
+
+
+# pip install -r requirements.txt to install everything at once 
