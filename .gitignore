@@ -1,0 +1,17 @@
+.DS_Store
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Optional: ignore environment files
+.env
+.DS_Store
