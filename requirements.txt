@@ -1,11 +1,28 @@
+# Frontend (Streamlit dashboard)
+streamlit
+
+# Backend (API)
 fastapi
 uvicorn
-streamlit
+
+# HTTP requests
 requests
+
+# AWS (optional but included since you import it)
 boto3
+
+# Data processing
 pandas
 numpy
+
+# Visualization
+plotly
+
+# File handling (comes with FastAPI but good to ensure)
 python-multipart
+
+# Optional (used internally sometimes)
+python-dotenv
 
 
 
