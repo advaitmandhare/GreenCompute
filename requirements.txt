@@ -26,4 +26,14 @@ python-dotenv
 
 
 
+# create a venv -->  python3 -m venv venv
+
+# activate it -->  source venv/bin/activate -- Mac
+#                  venv\Scripts\activate -- windows cmd
+#                  venv\Scripts\Activate.ps1 -- powershell
+
 # pip install -r requirements.txt to install everything at once 
+
+
+# activate backend -->  uvicorn backend:app --reload  
+# activate frontend --> streamlit run app.py 
